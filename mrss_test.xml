@@ -28,10 +28,11 @@
     </item>
 
     <item>
-      <title>Scenario 2 - Future media:disable_at (should Activate)</title>
+      <title>Scenario 2 - Future media:disable_at Past media:enable_at (should Activate)</title>
       <guid isPermaLink="false">45d35b4d-ad80-439a-94c2-6a6817ad094b</guid>
       <media:content url="https://ovp.tmz.com/video/aa/o/2024/04/26/aaa0867fdb5144319f39c6af4fb19bb0.mp4" medium="video" duration="26">
         <media:title>Scenario 2 - Future Disable</media:title>
+        <media:enable_at>2020-01-01T00:00:00Z</media:enable_at>
         <media:disable_at>2025-07-20T00:00:00Z</media:disable_at>
       </media:content>
       <description>Donald Trump complains about courthouse conditions.</description>
