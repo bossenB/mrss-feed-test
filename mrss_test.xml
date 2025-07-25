@@ -6,16 +6,6 @@
     <title>Sample Testing Videos</title>
     <link>https://www.tmz.com/</link>
     <description>Sample items for QA testing</description>
-
-    <item>
-      <title>Scenario 1 - Future media:enable_at (should NOT activate)</title>
-      <guid isPermaLink="false">13564916-e691-4869-9d4b-ef77cbc65a3e</guid>
-      <media:content url="https://storage.googleapis.com/zype-video-library-dev/sample-videos-zype-x/Wind.mp4" medium="video" duration="60">
-        <media:title>Scenario 1 - Future Enable</media:title>
-      </media:content>
-      <description>Gisele Bündchen was left in tears after being hounded by paparazzi.</description>
-    </item>
-
     <item>
       <title>Scenario 1 what is</title>
       <guid isPermaLink="false">13564916-e691-5069-8d3b-ef77cbc65a3d</guid>
