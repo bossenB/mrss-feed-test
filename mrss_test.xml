@@ -12,7 +12,6 @@
       <guid isPermaLink="false">13564916-e691-4869-9d4b-ef77cbc65a3e</guid>
       <media:content url="https://storage.googleapis.com/zype-video-library-dev/sample-videos-zype-x/Wind.mp4" medium="video" duration="60">
         <media:title>Scenario 1 - Future Enable</media:title>
-        <media:enable_at>2025-12-31T23:59:59Z</media:enable_at>
       </media:content>
       <description>Gisele Bündchen was left in tears after being hounded by paparazzi.</description>
     </item>
@@ -22,7 +21,6 @@
       <guid isPermaLink="false">0a7c10d2-e538-41fb-a73c-68ca12f177a8</guid>
       <media:content url="https://ovp.tmz.com/video/73/o/2024/04/26/73ace2db2c15432084ea6ca93ab4454a.mp4" medium="video" duration="103">
         <media:title>Scenario 1 - Past Enable</media:title>
-        <media:enable_at>2020-01-01T00:00:00Z</media:enable_at>
       </media:content>
       <description>Joe Biden discusses childhood experiences during an interview.</description>
     </item>
@@ -32,7 +30,6 @@
       <guid isPermaLink="false">45d35b8d-ad80-439a-94c2-6a6817ad094b</guid>
       <media:content url="https://ovp.tmz.com/video/aa/o/2024/04/26/aaa0867fdb5144319f39c6af4fb19bb0.mp4" medium="video" duration="26">
         <media:title>Scenario 2 - Future Disable</media:title>
-        <media:disable_at>2025-07-20T00:00:00Z</media:disable_at>
       </media:content>
       <description>Donald Trump complains about courthouse conditions.</description>
     </item>
@@ -42,7 +39,6 @@
       <guid isPermaLink="false">45d15b4d-ad80-439a-94c2-6a6817ad094a</guid>
       <media:content url="https://ovp.tmz.com/video/aa/o/2024/04/26/aaa0867fdb5144319f39c6af4fb19bb0.mp4" medium="video" duration="26">
         <media:title>Scenario 2 - Past Disable</media:title>
-        <media:disable_at>2020-01-01T00:00:00Z</media:disable_at>
       </media:content>
       <description>Donald Trump complains about courthouse conditions.</description>
     </item>
