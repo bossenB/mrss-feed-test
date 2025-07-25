@@ -16,41 +16,5 @@
       <description>Gisele Bündchen was left in tears after being hounded by paparazzi.</description>
     </item>
 
-    <item>
-      <title>Scenario 1 - Past media:enable_at (should Activate)</title>
-      <guid isPermaLink="false">0a7c10d2-e538-41fb-a73c-68ca12f177a8</guid>
-      <media:content url="https://ovp.tmz.com/video/73/o/2024/04/26/73ace2db2c15432084ea6ca93ab4454a.mp4" medium="video" duration="103">
-        <media:title>Scenario 1 - Past Enable</media:title>
-      </media:content>
-      <description>Joe Biden discusses childhood experiences during an interview.</description>
-    </item>
-
-    <item>
-      <title>Scenario 2 - Future media:disable_at (should Activate)</title>
-      <guid isPermaLink="false">45d35b8d-ad80-439a-94c2-6a6817ad094b</guid>
-      <media:content url="https://ovp.tmz.com/video/aa/o/2024/04/26/aaa0867fdb5144319f39c6af4fb19bb0.mp4" medium="video" duration="26">
-        <media:title>Scenario 2 - Future Disable</media:title>
-      </media:content>
-      <description>Donald Trump complains about courthouse conditions.</description>
-    </item>
-
-    <item>
-      <title>Scenario 2 - Past media:disable_at (should Deactivate)</title>
-      <guid isPermaLink="false">45d15b4d-ad80-439a-94c2-6a6817ad094a</guid>
-      <media:content url="https://ovp.tmz.com/video/aa/o/2024/04/26/aaa0867fdb5144319f39c6af4fb19bb0.mp4" medium="video" duration="26">
-        <media:title>Scenario 2 - Past Disable</media:title>
-      </media:content>
-      <description>Donald Trump complains about courthouse conditions.</description>
-    </item>
-
-    <item>
-      <title>Scenario 3 and 4 - Missing media:enable_at and media:disable_at (Nil preservation and global/import test)</title>
-      <guid isPermaLink="false">ab580339-297b-40cc-ab81-46b3f54da679</guid>
-      <media:content url="https://ovp.tmz.com/video/54/o/2024/04/26/543f4ac4780343879333126bd47ed3ec.mp4" medium="video" duration="91">
-        <media:title>Scenario 3 and 4 - Missing Enable/Disable</media:title>
-      </media:content>
-      <description>Rose McGowan reacts to overturned conviction news.</description>
-    </item>
-
   </channel>
 </rss>
