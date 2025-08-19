@@ -8,16 +8,6 @@
     <description>Sample items for QA testing</description>
 
     <item>
-      <title>Should schedule job</title>
-      <guid isPermaLink="false">13564915-e691-4869-9d4b-ef77cbc65a3e</guid>
-      <media:content url="https://storage.googleapis.com/zype-video-library-dev/sample-videos-zype-x/Wind.mp4" medium="video" duration="60">
-        <media:title>Scenario 1 - Future Enable</media:title>
-        <media:enable_at>2025-12-31T23:59:59Z</media:enable_at>
-      </media:content>
-      <description>Gisele Bündchen was left in tears after being hounded by paparazzi.</description>
-    </item>
-
-    <item>
       <title>Already active</title>
       <guid isPermaLink="false">0a7c10d4-e538-41fb-a73c-68ca12f177a8</guid>
       <media:content url="https://ovp.tmz.com/video/73/o/2024/04/26/73ace2db2c15432084ea6ca93ab4454a.mp4" medium="video" duration="103">
